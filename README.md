@@ -1,7 +1,7 @@
 
 # Ferozsons Pharmaceuticals: ERP Data Infrastructure & Operational Analytics
 
-<img width="1983" height="793" alt="Ferozsons Pharmaceuticals ERP Dashboard" src="https://github.com/user-attachments/assets/21e73e8f-a19c-4394-8346-f5adf4e0a701" />
+<img width="1983" height="793" alt="ferozsons-banner png" src="https://github.com/user-attachments/assets/f91de5a1-0ffb-4e9b-8d53-10bc4437f3a0" />
 
 **Role:** Data Analyst & Database Developer  
 **Stack:** SQL Server (T-SQL), SSMS, ERD Modeling, Trigger-Based Automation  
